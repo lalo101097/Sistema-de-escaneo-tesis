@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Sistema_de_escaneo.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Horizontal" Type="System.Int32[]" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfInt xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;int&gt;0&lt;/int&gt;
+  &lt;int&gt;19&lt;/int&gt;
+  &lt;int&gt;30&lt;/int&gt;
+  &lt;int&gt;40&lt;/int&gt;
+  &lt;int&gt;49&lt;/int&gt;
+  &lt;int&gt;58&lt;/int&gt;
+  &lt;int&gt;68&lt;/int&gt;
+  &lt;int&gt;78&lt;/int&gt;
+&lt;/ArrayOfInt&gt;</Value>
+    </Setting>
+    <Setting Name="Vertical" Type="System.Int32[]" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfInt xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;int&gt;0&lt;/int&gt;
+  &lt;int&gt;13&lt;/int&gt;
+  &lt;int&gt;21&lt;/int&gt;
+  &lt;int&gt;27&lt;/int&gt;
+  &lt;int&gt;33&lt;/int&gt;
+  &lt;int&gt;39&lt;/int&gt;
+  &lt;int&gt;45&lt;/int&gt;
+  &lt;int&gt;50&lt;/int&gt;
+  &lt;int&gt;56&lt;/int&gt;
+  &lt;int&gt;63&lt;/int&gt;
+  &lt;int&gt;69&lt;/int&gt;
+  &lt;int&gt;75&lt;/int&gt;
+&lt;/ArrayOfInt&gt;</Value>
+    </Setting>
+    <Setting Name="loops" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
